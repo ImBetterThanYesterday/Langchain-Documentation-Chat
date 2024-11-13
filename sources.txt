@@ -1,0 +1,12 @@
+https://python.langchain.com/docs/tutorials/rag/
+https://python.langchain.com/docs/introduction/
+https://python.langchain.com/docs/tutorials/
+https://python.langchain.com/docs/how_to/
+https://python.langchain.com/docs/concepts/
+https://python.langchain.com/docs/concepts/chat_models/
+https://python.langchain.com/docs/concepts/messages/
+https://langchain-ai.github.io/langgraph/concepts/memory/
+https://python.langchain.com/docs/concepts/structured_outputs/
+https://python.langchain.com/docs/concepts/document_loaders/
+https://python.langchain.com/docs/concepts/retrieval/
+https://python.langchain.com/docs/concepts/text_splitters/
